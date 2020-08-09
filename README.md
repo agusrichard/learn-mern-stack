@@ -1,3 +1,3 @@
-# LEARN MERN STACK
+# R Workbook
 
-Learning MERN stack
+Learning R Programming Language
